@@ -14,7 +14,7 @@
         <clobbers target="MobFoxPlugin" />
     </js-module>
 
-	<dependency id="com.google.cordova.admob"/>
+	<dependency id="cordova-plugin-admobpro"/>
 
     <platform name="android">
     	<config-file target="res/xml/config.xml" parent="/*">
